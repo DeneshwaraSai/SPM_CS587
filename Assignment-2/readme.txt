@@ -1,0 +1,3 @@
+- The MS Project named Assignment-Project-1-Part-1.mpp is the file that I took from Assignment.
+- The MS Project named Assignment-2_Sharer.mpp is the file for Assignment 2 Sharer.
+- Analysis.pdf has all the calculations, screen shots, network diagrams and answer for the Assignment-2.
