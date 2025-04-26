@@ -1,0 +1,1 @@
+FROM deneshwarasaia20562386/elasticsearch_vector:latest
